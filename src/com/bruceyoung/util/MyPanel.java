@@ -76,7 +76,7 @@ public class MyPanel extends JPanel implements Runnable {
 	        int[] rowData = new int[5];
 	        rowData[0] = S; rowData[1] = E; rowData[2] = I; rowData[3] = R; rowData[4] = D;
 			try {
-				exportExcel.WriteExcel("D://susceptibleIsolate.xlsx", rowData);
+				exportExcel.WriteExcel("D://test.xlsx", rowData);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

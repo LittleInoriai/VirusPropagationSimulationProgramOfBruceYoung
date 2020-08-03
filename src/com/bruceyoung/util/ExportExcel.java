@@ -10,7 +10,7 @@ public class ExportExcel {
     public void WriteExcel(String excelPath, int[] rowData) throws Exception {
         FileInputStream fileInputStream=new FileInputStream(excelPath);  //获取excel
         XSSFWorkbook Workbook=new XSSFWorkbook(fileInputStream);//得到文档对象
-        XSSFSheet sheet=Workbook.getSheet("Sheet4");  //根据name获取sheet表
+        XSSFSheet sheet=Workbook.getSheet("Sheet1");  //根据name获取sheet表
 
         XSSFRow row=sheet.getRow(0);  //获取第一行
 
