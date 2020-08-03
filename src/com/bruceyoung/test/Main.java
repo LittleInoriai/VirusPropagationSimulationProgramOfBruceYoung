@@ -36,11 +36,11 @@ public class Main {
             int index = new Random().nextInt(people.size()-1);
             Person person = people.get(index);
 
-            while (person.isInfected()){
+            while (person.isExposed()){
                 index = new Random().nextInt(people.size()-1);
                 person = people.get(index);
             }
-            person.beInfected();
+            person.beExposed();
 
         }
 

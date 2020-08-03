@@ -42,7 +42,7 @@ public class Hospital {
 
         for(int i=0;i<column;i++){
 
-            for(int j=10;j<=610;j+=6){
+            for(int j=10;j<610;j+=6){
                 Bed bed = new Bed(point.getX()+i*6,point.getY()+j);
                 beds.add(bed);
 
@@ -54,6 +54,15 @@ public class Hospital {
     public Bed pickBed(){
         for(Bed bed:beds){
             if(bed.isEmpty()){
+                return bed;
+            }
+        }
+        return null;
+    }
+
+    public Bed getBed(int x, int y) {
+        for(Bed bed:beds) {
+            if(bed.getX() == x && bed.getY() == y) {
                 return bed;
             }
         }
