@@ -21,12 +21,21 @@ https://github.com/zmjjobs/VirusPropagationSimulationProgramOfBruceYoung
 在考虑隔离的情况下，人情的状态又有隔离的易感者、隔离的潜伏者和隔离的感染者，被隔离的人群不会传染病毒给他人，也不会被传染病毒。
 
 ## 程序运行时截图
+左侧模拟人群中病毒传播的情况，白点代表易感者，黄点代表潜伏者，红点代表感染者，绿点代表治愈者。
+右侧模拟医院接收病人的情况，此时可以看到医院已无法容纳更多病人。
 
 ![image-20200803174416146](https://github.com/LittleInoriai/VirusPropagationSimulationProgramOfBruceYoung/blob/master/image/image-20200803174416146.png)
 
 ## 用模拟的数据绘制折线图
 
 这里只放一张自由传播时的折线图
+**S**
+易感者**E**
+潜伏者**I**
+感染者**R**
+治愈者**D**
+死亡者
+
 
 ![image-20200803174755736](https://github.com/LittleInoriai/VirusPropagationSimulationProgramOfBruceYoung/blob/master/image/image-20200803174755736.png)
 
