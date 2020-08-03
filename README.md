@@ -20,11 +20,11 @@
 
 ## 程序运行时截图
 
-![image-20200803174416146](C:\Users\Inoriai\AppData\Roaming\Typora\typora-user-images\image-20200803174416146.png)
+![image-20200803174416146](https://github.com/LittleInoriai/VirusPropagationSimulationProgramOfBruceYoung/blob/master/image/image-20200803174416146.png)
 
 ## 用模拟的数据绘制折线图
 
 这里只放一张自由传播时的折线图
 
-![image-20200803174755736](C:\Users\Inoriai\AppData\Roaming\Typora\typora-user-images\image-20200803174755736.png)
+![image-20200803174755736](https://github.com/LittleInoriai/VirusPropagationSimulationProgramOfBruceYoung/blob/master/image/image-20200803174755736.png)
 
