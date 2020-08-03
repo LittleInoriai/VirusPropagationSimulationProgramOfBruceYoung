@@ -28,12 +28,13 @@ https://github.com/zmjjobs/VirusPropagationSimulationProgramOfBruceYoung
 
 ## 用模拟的数据绘制折线图
 
-这里只放一张自由传播时的折线图
-**S**
-易感者**E**
-潜伏者**I**
-感染者**R**
-治愈者**D**
+(这里只放一张自由传播时的折线图)
+
+**S:**
+易感者**E:**
+潜伏者**I:**
+感染者**R:**
+治愈者**D:**
 死亡者
 
 
