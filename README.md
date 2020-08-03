@@ -1,6 +1,8 @@
-**注：**此仿真程序是在现有的仿真程序的基础上做出了修改，添加了自己设定的一些条件，仅作学习交流。
+**注：**
+此仿真程序是在现有的仿真程序的基础上做出了修改，添加了自己设定的一些条件，仅作学习交流。
 
-**参考程序的链接：**https://github.com/zmjjobs/VirusPropagationSimulationProgramOfBruceYoung
+**参考程序的链接：**
+https://github.com/zmjjobs/VirusPropagationSimulationProgramOfBruceYoung
 
 ## 程序概述
 
