@@ -31,11 +31,16 @@ https://github.com/zmjjobs/VirusPropagationSimulationProgramOfBruceYoung
 (这里只放一张自由传播时的折线图)
 
 **S:**
-易感者**E:**
-潜伏者**I:**
-感染者**R:**
-治愈者**D:**
+易感者 **E:**
+潜伏者 **I:**
+感染者 **R:**
+治愈者 **D:**
 死亡者
+ 
+ **横轴:**
+ 模拟的步数即天数 
+ **纵轴:**
+ 人数
 
 
 ![image-20200803174755736](https://github.com/LittleInoriai/VirusPropagationSimulationProgramOfBruceYoung/blob/master/image/image-20200803174755736.png)
